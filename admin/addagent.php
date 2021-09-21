@@ -129,7 +129,7 @@ require_once ("../admin/target.php");
             <div class="row">
                 <div class="col">
                     <p class="lead text-center">
-                        copyright &copy; <span id="year"></span> Blogen
+                        copyright &copy; <span id="year"></span> REAL ESTATE LTD
                     </p>
                 </div>
             </div>
